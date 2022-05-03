@@ -432,6 +432,7 @@
     height: 250px;
     width: 250px;
   }
+  
   .main__content h1{
     font-size: 2rem;
     margin-top: 3rem;
@@ -439,7 +440,11 @@
   .main__content h2{
     font-size: 2rem;
   }
-
+  .main__img--card svg{
+    width: 150px;
+    justify-content: center;
+    align-self: center;
+  }
   .main__content p{
     margin-top: 2rem;
   }
